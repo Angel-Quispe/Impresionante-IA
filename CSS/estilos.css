@@ -1,0 +1,143 @@
+*body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #b4c8ff;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    background-color: #9f102c;
+    padding: 10px 20px;
+}
+
+.navbar img {
+    height: 60px;
+    margin-right: 40px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    transition: background-color 0.3s;
+}
+
+.navbar a:hover {
+    background-color: #340016;
+}
+
+.titulo-caja {
+    background-color: #d43b2d;
+    border: 4px solid #fe6c2b;
+    border-radius: 80px;
+    padding: 15px;
+    text-align: center;
+    width: 200px;
+    margin: 20px auto;
+    font-size: 24px;
+    color: #ced0ba;
+}
+
+.parrafo-caja {
+    background-color: #d43b2d; 
+    border: 4px solid #fe6c2b; 
+    border-radius: 80px; 
+    padding: 20px; 
+    margin: 20px 0; 
+    font-size: 18px; 
+    color: #ced0ba; 
+    line-height: 1.6; 
+}
+.parrafo1-caja {
+    background-color: #d43b2d; 
+    border: 4px solid #fe6c2b; 
+    border-radius: 80px; 
+    padding: 20px; 
+    margin: 20px 0; 
+    font-size: 18px; 
+    color: #ced0ba; 
+    line-height: 1.6; 
+} 
+
+.h2 {
+    background-color: #d43b2d; 
+    border: 4px solid #fe6c2b; 
+    border-radius: 80px; 
+    padding: 10px; 
+    margin: 15px auto; 
+    font-size: 20px; 
+    color: #ced0ba; 
+    text-align: center;
+    width: 280px;
+   } 
+
+   .subtitulo1-caja {
+    background-color: #d43b2d;
+    border: 4px solid #fe6c2b; 
+    border-radius: 80px; 
+    padding: 10px;
+    margin: 15px auto;
+    font-size: 20px;
+    color: #ced0ba; 
+    text-align: center; 
+   } 
+
+   .h1 {
+    background-color: #d43b2d;
+    border: 4px solid #fe6c2b; 
+    border-radius: 80px; 
+    padding: 10px;
+    margin: 15px;
+    font-size: 20px;
+    color: #ced0ba; 
+    text-align: center; 
+    width: 500px;
+   } 
+
+   .img-caja {
+    background-color: #d43b2d; 
+    border: 4px solid #fe6c2b; 
+    border-radius: 50px; 
+    padding: 20px; 
+    margin: 20px 0; 
+    font-size: 18px; 
+    color: #ced0ba; 
+    line-height: 1.6; 
+    width: 40%;
+    height: 50%;
+}
+
+.navbar {
+    font-family: "Sixtyfour Convergence", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    font-variation-settings:
+      "BLED" 0,
+      "SCAN" 0,
+      "XELA" 0,
+      "YELA" 0;
+      text-align: center;
+    }  
+
+h1 {
+     font-family: "Exo 2", sans-serif;
+     font-optical-sizing: auto;
+    font-weight: <weight>;
+     font-style: normal;
+     }
+
+h2{
+    font-family: "Edu AU VIC WA NT Guides", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+     }
+
+p {
+    font-family: "Edu AU VIC WA NT Guides", cursive;
+     font-optical-sizing: auto;
+    font-weight: <weight>;
+     font-style: normal;
+     }
